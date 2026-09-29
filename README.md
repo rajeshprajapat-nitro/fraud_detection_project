@@ -5,7 +5,7 @@ Fraud Detection" dataset (284,807 transactions, only 492 fraud — **0.172%**
 positive class). This project demonstrates how to detect rare, high-cost
 events when accuracy is a meaningless metric.
 
-## ⚡ Quick Start (one command)
+## ⚡ Quick Start ( one command )
 
 ```bash
 # 1. Unzip this project, cd into it
