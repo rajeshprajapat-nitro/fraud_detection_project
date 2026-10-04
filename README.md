@@ -9,7 +9,7 @@ events when accuracy is a meaningless metric .
 
 ```bash
 # 1. Unzip this project, cd into it
-cd fraud_project
+cd fraud_project 
 
 # 2. Make sure your dataset is at: data/creditcard.csv
 #    (download from https://www.kaggle.com/mlg-ulb/creditcardfraud
