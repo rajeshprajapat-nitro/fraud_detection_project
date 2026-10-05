@@ -8,7 +8,7 @@ events when accuracy is a meaningless metric .
 ## ⚡ Quick Start ( one command )
 
 ```bash
-# 1. Unzip this project, cd into it
+# 1. Unzip this project , cd into it
 cd fraud_project 
 
 # 2. Make sure your dataset is at: data/creditcard.csv
