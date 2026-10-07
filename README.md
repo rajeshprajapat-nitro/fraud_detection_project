@@ -21,7 +21,7 @@ bash run_all.sh
 ```
 That's it. Results land in `outputs/` (plots + `metrics.json`), trained
 models in `models/`, and a browser tab opens automatically showing an
-interactive dashboard (EDA, model comparison, live prediction demo).
+interactive dashboard (EDA, model comparison, live prediction demo) .
 
 ## 🌐 Browser Dashboard
 
